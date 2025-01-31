@@ -1,0 +1,36 @@
+a{
+    text-decoration: none;
+}
+h1{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+}
+
+h2{
+    border: solid black; 
+        border-radius: 50px;
+        border-width: 2px 1px;
+
+    text-align: center;  
+
+    color:darkmagenta; 
+    background-color: cornsilk;
+
+    font-family:"Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+
+    width: 300px;
+}
+
+h2:hover{
+    background-color: bisque;
+    font-weight: 500;
+    border-width: 2px;
+}
+html{
+    background-color: honeydew;
+}
+
